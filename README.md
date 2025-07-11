@@ -3,7 +3,7 @@ Docker contrainer with Ubuntu desktop gnome image
 
 
 # Running the container
-You can follow all the steps on [the docker hub repository](https://hub.docker.com/repository/docker/mohamedlaminek/ubuntu-desktop-vnc/general) to run the ubuntu desktop contrainer and get access to it through VNC Viewer
+You can follow all the steps on [the docker hub repository](https://hub.docker.com/r/mohamedlaminek/ubuntu-desktop-vnc) to run the ubuntu desktop contrainer and get access to it through VNC Viewer
 
 
 # Building the docker image from scratch
